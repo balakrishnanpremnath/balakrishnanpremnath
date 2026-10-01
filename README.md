@@ -39,3 +39,7 @@ I am seeking internships in Data Science, Data Analytics,
 Business Intelligence, and Machine Learning.
 
 Explore my repositories below to see my projects and documentation.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/balakrishnan-premnath)
