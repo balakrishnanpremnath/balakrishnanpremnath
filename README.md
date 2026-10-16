@@ -129,8 +129,6 @@ Experience maintaining **inventory and stock records, invoices, payment reconcil
 
 ---
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
