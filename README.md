@@ -129,6 +129,22 @@ Experience maintaining **inventory and stock records, invoices, payment reconcil
 
 ---
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balakrishnanpremnath&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balakrishnanpremnath&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=balakrishnanpremnath&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+</p>
+
+---
+
+
 <div align="center">
 
 ### 🤝 Let's Connect
